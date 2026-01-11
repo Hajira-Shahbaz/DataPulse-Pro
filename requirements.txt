@@ -1,0 +1,24 @@
+# Web App Framework
+streamlit>=1.30.0
+
+# Data Manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization & Interactive UI
+plotly>=5.15.0
+
+# Statistical Modeling & Research
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Machine Learning & Pipelines
+scikit-learn>=1.2.0
+
+# Optional: Excel Support
+openpyxl>=3.1.0
+fpdf2>=2.5.0
+
+matplotlib>=3.0.0
+
+seaborn 
